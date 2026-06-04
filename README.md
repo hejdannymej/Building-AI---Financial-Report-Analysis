@@ -24,14 +24,6 @@ Target Features: Revenue, Net Post-Tax Profit, Total Assets, Book Value, and his
 **AI & Computational Techniques**
 Linear Regression & Least Squares via NumPy: Used to calculate the Beta Coefficient (β) of individual equities by fitting historical asset returns against the benchmark index (VN-INDEX)
 ​
-This is implemented efficiently using linear algebra solver blocks:
-Python
-
-# Linear calculation of beta using Least Squares
-X = np.vstack([np.ones(len(market_returns)), market_returns]).T
-c = np.linalg.lstsq(X, stock_returns, rcond=-1)[0]
-beta = c[1]
-
 K-Nearest Neighbors (kNN) for Peer Grouping: Companies are clustered using an L1/Manhattan distance matrix based on financial ratios (P/E,P/B,ROE), ensuring that valuation comparisons are drawn against the most mathematically accurate sector peers.
 
 Natural Language Processing (NLP) / TF-IDF: Applied to the "Notes to the Financial Statements" section to extract and weight critical text keywords regarding corporate debt risks, legal disputes, and auditor qualifications.
