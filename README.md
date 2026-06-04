@@ -1,4 +1,4 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
+p<!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
