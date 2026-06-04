@@ -1,7 +1,7 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. ! -->
-# Project Title
-Building AI - FINANCIAL REPORT ANALYSIS
+# FINANCIAL REPORT ANALYSIS
+Final project for the course Building AI of Helsinki University
 ## Summary
 Brief Description: FinAI-VN is an automated AI-driven framework designed to extract, analyze, and benchmark financial statements from listed companies on the Vietnamese stock exchanges (HOSE, HNX, and UPCoM). By leveraging machine learning models alongside advanced financial math, the system transforms raw corporate data into institutional-grade evaluation metrics (such as dynamic P/E, P/B, and Beta coefficients), enabling brokers and retail investors to mitigate risks and uncover intrinsic value at scale.
 
