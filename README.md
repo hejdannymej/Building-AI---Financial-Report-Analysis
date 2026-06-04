@@ -1,5 +1,6 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. ! -->
+created by Reaktor Innovations and University of Helsinki. 
+Copy the template, paste it to your GitHub README and edit! -->
 
 # FINANCIAL REPORT ANALYSIS
 Final project for the course Building AI of Helsinki University
@@ -13,7 +14,7 @@ Author: Nguyen Dat Anh
 
 **1. FinAI-VN (Financial Statement Analyzer for Vietnam's Securities Market)**
 
-**2. Background**
+## Background
 The Problem: The Vietnamese stock market is characterized by high volatility and a dominant retail investor base. Manual analysis of financial reports (Balance Sheets, Income Statements, and Cash Flow Statements) is incredibly time-consuming. Furthermore, raw financial data often suffers from formatting inconsistencies across different business sectors.
 
 Frequency & Prevalence: Every quarter, over 1,600 listed companies publish reports simultaneously. Investors and market makers face a severe information bottleneck, forcing them to rely on delayed secondary summaries or emotional trading.
